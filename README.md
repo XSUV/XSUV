@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="github contribution" src="./commit-2020.svg">
+[![](./commit-2020.svg)](https://github.com/XSUV?tab=overview&from=2020-12-01&to=2020-12-31)
